@@ -1,0 +1,7 @@
+#canvas {
+	border: 1px solid black;
+}
+
+#modal::backdrop {
+	backdrop-filter: blur(4px) brightness(0.5);
+}
